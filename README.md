@@ -41,5 +41,3 @@ Esta aplicação é apenas para fins de diversão e não se responsabiliza por p
 **Palavras-chave:** filmes de terror, busca, JavaScript, HTML, CSS, projeto web, open source
 
 **#filmesdeterror #horrormovies #javascript #webdev #open source**
-
-**Comandos úteis:**
